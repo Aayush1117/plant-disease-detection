@@ -1,0 +1,19 @@
+# Dataset
+dataset/
+PlantData/
+*.zip
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Uploads & results
+static/uploads/
+results/
+
+# Jupyter
+.ipynb_checkpoints/git rm -r --cached dataset
+models/cnn_baseline.keras
+models/vgg16_model.keras
+models/vgg19_model.keras

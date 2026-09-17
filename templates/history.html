@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Detection History</title>
+
+<style>
+body{
+    font-family:Arial;
+    background:#eaf5ea;
+    margin:0;
+}
+
+.container{
+    width:1000px;
+    margin:25px auto;
+    background:#fff;
+    border-radius:18px;
+    padding:25px;
+}
+
+h1{
+    text-align:center;
+    color:#0a5b2a;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:25px;
+}
+
+th{
+    background:#198754;
+    color:white;
+    padding:12px;
+}
+
+td{
+    text-align:center;
+    padding:12px;
+    border-bottom:1px solid #ddd;
+}
+
+tr:hover{
+    background:#f5f5f5;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:25px;
+    text-decoration:none;
+    background:#1976d2;
+    color:white;
+    padding:12px 22px;
+    border-radius:10px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>📜 Detection History</h1>
+
+<table>
+
+<tr>
+<th>Date</th>
+<th>Plant</th>
+<th>Disease</th>
+<th>Confidence</th>
+<th>Severity</th>
+</tr>
+
+{% for row in rows %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+<td>{{ row[2] }}</td>
+<td>{{ row[3] }}%</td>
+<td>{{ row[4] }}%</td>
+</tr>
+{% endfor %}
+
+</table>
+
+<div style="text-align:center;">
+<a href="/" class="btn">⬅ Back to Home</a>
+</div>
+
+</div>
+
+</body>
+</html>

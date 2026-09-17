@@ -1,0 +1,16 @@
+Date,Plant,Disease,Confidence,Severity
+23-08-2026 16:02,Apple,Black rot,90.2,16.54
+23-08-2026 16:02,Apple,Black rot,90.2,16.54
+23-08-2026 16:03,Apple,Black rot,90.2,16.54
+23-08-2026 16:06,Apple,Black rot,90.2,16.54
+23-08-2026 16:07,Strawberry,Leaf scorch,100.0,27.91
+23-08-2026 16:12,Strawberry,Leaf scorch,100.0,23.38
+23-08-2026 16:19,Strawberry,Leaf scorch,100.0,23.38
+23-08-2026 16:20,Apple,Black rot,90.2,16.13
+23-08-2026 16:28,Apple,Black rot,90.2,16.13
+23-08-2026 16:28,Strawberry,Leaf scorch,100.0,23.38
+23-08-2026 16:32,Apple,Black rot,90.2,16.13
+04-09-2026 11:44,Raspberry,healthy,100.0,0.3
+04-09-2026 11:44,Strawberry,Leaf_scorch,100.0,24.79
+16-09-2026 05:59,Strawberry,Leaf_scorch,100.0,24.79
+16-09-2026 09:19,Strawberry,Leaf_scorch,100.0,24.79
