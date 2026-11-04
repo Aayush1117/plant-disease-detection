@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aayush1117/plant-disease-detection/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Aayush1117/plant-disease-detection/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aayush1117/plant-disease-detection/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
