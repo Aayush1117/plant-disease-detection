@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0345-reverse-vowels-of-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
