@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1117/plant-disease-detection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aayush1117/plant-disease-detection/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1117/plant-disease-detection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
