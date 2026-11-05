@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1117/plant-disease-detection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0394-decode-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1117/plant-disease-detection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/0142-linked-list-cycle-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1117/plant-disease-detection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Aayush1117/plant-disease-detection/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
