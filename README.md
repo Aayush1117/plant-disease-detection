@@ -85,13 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/0112-path-sum) |
 | [0872-leaf-similar-trees](https://github.com/Aayush1117/plant-disease-detection/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/0112-path-sum) |
 | [0872-leaf-similar-trees](https://github.com/Aayush1117/plant-disease-detection/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/0112-path-sum) |
 | [0872-leaf-similar-trees](https://github.com/Aayush1117/plant-disease-detection/tree/master/0872-leaf-similar-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
