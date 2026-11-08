@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aayush1117/plant-disease-detection/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Aayush1117/plant-disease-detection/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aayush1117/plant-disease-detection/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -131,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Aayush1117/plant-disease-detection/tree/master/0198-house-robber) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
