@@ -158,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aayush1117/plant-disease-detection/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aayush1117/plant-disease-detection/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aayush1117/plant-disease-detection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
