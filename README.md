@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aayush1117/plant-disease-detection/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aayush1117/plant-disease-detection/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aayush1117/plant-disease-detection/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
