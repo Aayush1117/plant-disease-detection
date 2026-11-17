@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0345-reverse-vowels-of-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aayush1117/plant-disease-detection/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aayush1117/plant-disease-detection/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aayush1117/plant-disease-detection/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aayush1117/plant-disease-detection/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Aayush1117/plant-disease-detection/tree/master/0198-house-robber) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aayush1117/plant-disease-detection/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3693-climbing-stairs-ii) |
 ## Union-Find
 |  |
