@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aayush1117/plant-disease-detection/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush1117/plant-disease-detection/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayush1117/plant-disease-detection/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aayush1117/plant-disease-detection/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3693-climbing-stairs-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush1117/plant-disease-detection/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush1117/plant-disease-detection/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aayush1117/plant-disease-detection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Segment Tree
 |  |
