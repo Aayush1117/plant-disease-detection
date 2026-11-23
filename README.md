@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aayush1117/plant-disease-detection/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayush1117/plant-disease-detection/tree/master/1207-unique-number-of-occurrences) |
 | [1267-count-servers-that-communicate](https://github.com/Aayush1117/plant-disease-detection/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush1117/plant-disease-detection/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aayush1117/plant-disease-detection/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayush1117/plant-disease-detection/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aayush1117/plant-disease-detection/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush1117/plant-disease-detection/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aayush1117/plant-disease-detection/tree/master/0208-implement-trie-prefix-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush1117/plant-disease-detection/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush1117/plant-disease-detection/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aayush1117/plant-disease-detection/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aayush1117/plant-disease-detection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aayush1117/plant-disease-detection/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush1117/plant-disease-detection/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
