@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Aayush1117/plant-disease-detection/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Aayush1117/plant-disease-detection/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aayush1117/plant-disease-detection/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush1117/plant-disease-detection/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aayush1117/plant-disease-detection/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aayush1117/plant-disease-detection/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush1117/plant-disease-detection/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aayush1117/plant-disease-detection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Aayush1117/plant-disease-detection/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aayush1117/plant-disease-detection/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Segment Tree
 |  |
 | ------- |
